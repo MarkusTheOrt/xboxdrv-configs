@@ -5,7 +5,7 @@ This is useful for playing games that are not compatible with newer gamepads lik
 
 ## Inspired by [yoyossef/ds360](https://github.com/yoyossef/ds360)
 
-Go check out his repository which my code is based upon.
+Go check out their repository which my code is based upon.
 
 ## Requirements
 
