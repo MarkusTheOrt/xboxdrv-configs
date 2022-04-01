@@ -14,7 +14,7 @@ Go check out their repository which my code is based upon.
 
 ## Usage
 
-**Start in terminal and press `CTRL+Z` to stop.**
+**Start in terminal and press `CTRL+C` to stop.**
 
 ```sh
 ./dualsense
