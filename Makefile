@@ -13,3 +13,5 @@ xboxone: xboxone.cpp
 
 xboxElite: xboxElite.cpp
 	g++ -Wall -o xboxElite xboxElite.cpp
+
+all: dualsense dualshock4 xboxone xboxElite
